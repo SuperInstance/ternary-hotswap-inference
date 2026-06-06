@@ -1,0 +1,11 @@
+[package]
+name = "adaptive-inference"
+version = "0.1.0"
+edition = "2021"
+description = "Adaptive ternary inference with atomic model hotswap and CRDT audit trail. Proves zero-downtime model swap is possible with ternary weights (16x density) and full version tracking."
+
+[dependencies]
+# no external deps — proves the concepts are self-contained
+
+[dev-dependencies]
+# none needed; all tests are in lib.rs
