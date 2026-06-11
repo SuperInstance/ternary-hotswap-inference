@@ -2,6 +2,7 @@
 repository = "https://github.com/SuperInstance/ternary-hotswap-inference"
 name = "adaptive-inference"
 version = "0.1.0"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 description = "Adaptive ternary inference with atomic model hotswap and CRDT audit trail. Proves zero-downtime model swap is possible with ternary weights (16x density) and full version tracking."
 
